@@ -1,5 +1,13 @@
 ## Master
 
+## v129 (11/6/2014)
+
+* Fix asset caching bug (#300)
+
+## v128 (11/4/2014)
+
+* Better cedar14 Ruby install error message
+
 ## v127 (9/18/2014)
 
 * rbx is now stack aware
